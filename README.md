@@ -41,8 +41,8 @@ Installation of these packages is explained in the **Installation** section belo
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/KCprsnlcc/speechapp.git
+cd speechapp
 ```
 
 ### Step 2: Set Up a Virtual Environment
